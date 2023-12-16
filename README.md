@@ -29,6 +29,7 @@ O banco de dados usado no projeto é o [postgres](https://www.postgresql.org/) n
     ```
 
 Vídeo para instalar postgres
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1jSb4LJH1dw?si=8ri2VbJgYHy657za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
@@ -40,14 +41,16 @@ Aqui temos todos os vídeos gravados pela  equipe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBCI31jdZxA?si=YeAdCsmYKCBHsrj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 - Apresentação 02
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ktuKswGC6Y?si=3VGGeflfb2OLaNL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
 - Apresentação 03
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CeE8b735jvA?si=DnUzeswzh0W4PInp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 - Apresentação 04
 
