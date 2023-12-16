@@ -28,30 +28,24 @@ O banco de dados usado no projeto é o [postgres](https://www.postgresql.org/) n
     Versão = psycopg2-binary==2.9.6
     ```
 
-Vídeo para instalar postgres
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1jSb4LJH1dw?si=8ri2VbJgYHy657za" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+[Vídeo para instalar postgres](https://www.youtube.com/embed/1jSb4LJH1dw?si=8ri2VbJgYHy657za)
 
 ## **Apresentações**
 
 Aqui temos todos os vídeos gravados pela  equipe
 
-- Apresentação 01
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WBCI31jdZxA?si=YeAdCsmYKCBHsrj9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Apresentação 01](https://www.youtube.com/embed/WBCI31jdZxA?si=dDX-_vlv0RY6hTvv)
 
 
-- Apresentação 02
+[Apresentação 02](https://www.youtube.com/embed/6ktuKswGC6Y?si=6Gm8HfD2A5Si5S51)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ktuKswGC6Y?si=3VGGeflfb2OLaNL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Apresentação 03](https://www.youtube.com/embed/CeE8b735jvA?si=p_e7YykpGJyYmVx_)
 
-
-- Apresentação 03
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CeE8b735jvA?si=DnUzeswzh0W4PInp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[Apresentação 04](https://www.youtube.com/embed/ry7DldKHwB0?si=sSP_nlr31KcS34cA)
 
 
-- Apresentação 04
+## **Bibliografia**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ry7DldKHwB0?si=irVUDV-o3Q1gXae5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> Danielle Oliveira, Saiba tudo sobre SQL - A linguagem padrão para trabalhar com banco de dados relacionais!, Disponível em : <https://www.alura.com.br/artigos/o-que-e-sql>, Acesso em: 16 de Dezembro de 2023
+
+> RODRIGO MARTIN, MUD: a moda mais antiga de multiplayers da Rede, Disponível em : <https://www.theenemy.com.br/games/mud-a-moda-mais-antiga-de-multiplayers-da-rede>, Acesso em 16 de Dezembro de 2023
